@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1751c871-9cce-48b3-91a1-a66a30fc7791": {
+      "ProjectGuid": "1751c871-9cce-48b3-91a1-a66a30fc7791",
+      "DisplayName": "ProjetoLinhaLari",
+      "ColorIndex": 0
+    },
+    "6c49de2e-4063-402f-b48c-c9827a3ef946": {
+      "ProjectGuid": "6c49de2e-4063-402f-b48c-c9827a3ef946",
+      "DisplayName": "ConexaoBanco",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

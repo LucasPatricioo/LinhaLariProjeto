@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoLinhaLari", "ProjetoLinhaLari\ProjetoLinhaLari.csproj", "{1751C871-9CCE-48B3-91A1-A66A30FC7791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexaoBanco", "ConexaoBanco\ConexaoBanco.csproj", "{6C49DE2E-4063-402F-B48C-C9827A3EF946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1751C871-9CCE-48B3-91A1-A66A30FC7791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1751C871-9CCE-48B3-91A1-A66A30FC7791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1751C871-9CCE-48B3-91A1-A66A30FC7791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1751C871-9CCE-48B3-91A1-A66A30FC7791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C49DE2E-4063-402F-B48C-C9827A3EF946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C49DE2E-4063-402F-B48C-C9827A3EF946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C49DE2E-4063-402F-B48C-C9827A3EF946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C49DE2E-4063-402F-B48C-C9827A3EF946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7CBC1A-5565-4C7C-AF32-4EF15C70256A}
+	EndGlobalSection
+EndGlobal
